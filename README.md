@@ -1,0 +1,2 @@
+# Bilstm_crf_ner
+用word2vec接bilstm接crf做命名实体识别
